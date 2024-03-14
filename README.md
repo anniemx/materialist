@@ -13,4 +13,4 @@ Tables include:
 - project's materials and quantities
 
 For example, a project of a small wooden sauna would include timber x m2, indoor tiles x m2, outdoor roof cladding x m2 and concrete x m2
-User can add kg CO₂ eq/m² value by searching EPD (Environmental Product Declaration) of a certain product. 
+User can add kg CO₂ eq/m² value by searching EPD (Environmental Product Declaration) of a certain product. Thus a query of total emissions can be done. 
