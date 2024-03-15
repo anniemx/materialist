@@ -1,5 +1,6 @@
 # materialist
-A project for co2 emissions database of building materials
+A project of co2 emissions database of building materials and calculator
+
 In this application a user can create a small building project and save building materials used in a database. 
 Materials are divided into indoor and outdoor category.
 Each material item are saved with an amount, such as an area (m2) and co2/kg value. 
